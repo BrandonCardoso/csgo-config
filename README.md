@@ -1,2 +1,2 @@
-# CS:GO Config
-Place `autoexec.cfg` and `autoexec` folder in `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`
+# Counter Strike 2 Config
+Copy `autoexec.cfg` and the `autoexec` folder into `<Steam libray path>\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\`
